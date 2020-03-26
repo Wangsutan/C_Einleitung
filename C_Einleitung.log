@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2020.2.22)  26 MAR 2020 15:50
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2020.2.22)  26 MAR 2020 19:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**翻译版面测试.tex
-(./翻译版面测试.tex
+**C_Einleitung.tex
+(./C_Einleitung.tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1191,8 +1191,8 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 LaTeX Warning: Unused global option(s):
     [10.5pt].
 
-(./翻译版面测试.aux)
-\openout1 = `翻译版面测试.aux'.
+(./C_Einleitung.aux)
+\openout1 = `C_Einleitung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -1285,7 +1285,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 22.
  [1
 
-] (./翻译版面测试.toc
+] (./C_Einleitung.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.53937> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1294,7 +1294,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
 )
 \tf@toc=\write3
-\openout3 = `翻译版面测试.toc'.
+\openout3 = `C_Einleitung.toc'.
 
 
 
@@ -1455,14 +1455,14 @@ Underfull \vbox (badness 1975) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
-[46] (./翻译版面测试.aux) ) 
+[46] (./C_Einleitung.aux) ) 
 Here is how much of TeX's memory you used:
  21341 strings out of 493068
- 502379 string characters out of 6137720
- 455809 words of memory out of 5000000
+ 502445 string characters out of 6137720
+ 455815 words of memory out of 5000000
  25109 multiletter control sequences out of 15000+600000
  8538 words of font info for 58 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 57i,11n,74p,10471b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,11n,74p,10477b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 翻译版面测试.pdf (46 pages).
+Output written on C_Einleitung.pdf (46 pages).
