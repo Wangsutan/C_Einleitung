@@ -1,9 +1,9 @@
-\contentsline {section}{译者序言}{3}
-\contentsline {section}{\uppercase {i}. 生产，消费，分配，交换（流通）}{5}
-\contentsline {subsection}{1.生产}{5}
-\contentsline {subsection}{2.生产同分配、交换、消费的一般关系}{10}
-\contentsline {subsubsection}{a) [生产与消费]}{11}
-\contentsline {subsubsection}{b) [生产和分配]}{14}
-\contentsline {subsubsection}{c) 交换最后以及流通}{17}
-\contentsline {subsection}{3.政治经济学的方法}{19}
-\contentsline {subsection}{4.生产。\\生产工具和生产关系。\\生产关系和交往关系。\\同生产关系、交往关系相关联的国家形式、意识形式。\\法律关系。\\家庭关系。}{27}
+\contentsline {section}{译者序言}{3}{section*.1}
+\contentsline {section}{\uppercase {i}. 生产，消费，分配，交换（流通）}{5}{section*.2}
+\contentsline {subsection}{1.生产}{5}{subsection*.3}
+\contentsline {subsection}{2.生产同分配、交换、消费的一般关系}{10}{subsection*.4}
+\contentsline {subsubsection}{a) [生产与消费]}{11}{subsubsection*.5}
+\contentsline {subsubsection}{b) [生产和分配]}{14}{subsubsection*.6}
+\contentsline {subsubsection}{c) 交换最后以及流通}{17}{subsubsection*.7}
+\contentsline {subsection}{3.政治经济学的方法}{19}{subsection*.8}
+\contentsline {subsection}{4.生产。\\生产工具和生产关系。\\生产关系和交往关系。\\同生产关系、交往关系相关联的国家形式、意识形式。\\法律关系。\\家庭关系。}{27}{subsection*.9}
