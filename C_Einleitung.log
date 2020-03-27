@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2020.2.22)  26 MAR 2020 19:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2020.2.22)  27 MAR 2020 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -159,8 +159,8 @@ File: ctexopts.cfg 2016/12/27 v2.4.7 Option configuration file (CTEX)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count106
 \c@section=\count107
@@ -1100,15 +1100,11 @@ File: ctex-name-utf8.cfg 2016/12/27 v2.4.7 Caption with encoding UTF8 (CTEX)
 . 
 . Defining command \zihao with sig. 'm' on line 1211.
 .................................................
-(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo
-File: ctex-c5size.clo 2016/12/27 v2.4.7 c5size option (CTEX)
-)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \CTeX with sig. '' on line 1315.
 .................................................
-
 (/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
 File: ctex-fontset-fandol.def 2016/12/27 v2.4.7 Fandol fonts definition (CTEX)
 
@@ -1187,38 +1183,34 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count138
 \cp@tempcnt=\count139
 )
-
-LaTeX Warning: Unused global option(s):
-    [10.5pt].
-
 (./C_Einleitung.aux)
 \openout1 = `C_Einleitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 20.
+LaTeX Info: Redefining \selectfont on input line 22.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1226,86 +1218,77 @@ LaTeX Info: Redefining \selectfont on input line 20.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
-LaTeX Font Info:    Redeclaring math accent \check on input line 20.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
+LaTeX Font Info:    Redeclaring math accent \check on input line 22.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 20.
+(Font)              `operators' in the math version `normal' on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 20.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 22.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 20.
+(Font)              `operators' in the math version `bold' on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 20.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 20.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 20.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 20.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 20.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.045> on input line 22.
+(Font)              <14.4> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <7> on input line 24.
  [1
 
 ] (./C_Einleitung.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 3.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <6> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `C_Einleitung.toc'.
 
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 12.64723pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2]
+ [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.52812> on input line 36.
+(Font)              <5> on input line 38.
 \g__fontspec_family_IPAexMincho_int=\count140
 .................................................
 . fontspec info: "no-font-shape"
@@ -1334,7 +1317,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . <->"IPAexMincho/OT:script=hani;language=DFLT;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
- [3] [4]
+
+Overfull \hbox (10.41734pt too wide) in paragraph at lines 38--39
+\TU/lmr/m/n/12 Archive\TU/FandolSong-Regular(0)/m/n/12 ，|  简 称 \TU/lmr/m/n/12 M
+IA\TU/FandolSong-Regular(0)/m/n/12 ）|  中 收 录 的 \TU/lmr/m/it/12 Einleitung [zur 
+Kritik der Politischen Ökonomie]\TU/FandolSong-Regular(0)/m/n/12 ，|
+ []
+
+
+Overfull \hbox (5.89442pt too wide) in paragraph at lines 38--39
+\TU/FandolSong-Regular(0)/m/n/12 后 又 校 以 狄 茨 出 版 社 \TU/lmr/m/n/12 1974 \TU/Fand
+olSong-Regular(0)/m/n/12 年 版 的 \TU/lmr/m/it/12 Zur Kritik der Politischen Ökono
+mie(Erstes
+ []
+
+
+Overfull \hbox (1.14264pt too wide) in paragraph at lines 38--39
+\TU/lmr/m/it/12 Heft)[]\TU/FandolSong-Regular(0)/m/n/12 附 录 中 的 \TU/lmr/m/it/12
+ Karl Marx: Einleitung [zur Kritik der Politischen Ökonomie]\TU/FandolSong-Regu
+lar(0)/m/n/12 。|
+ []
+
+[3]
+Overfull \hbox (41.81071pt too wide) in paragraph at lines 46--47
+[]\TU/FandolSong-Regular(0)/m/n/12 如 对 该 译 本 有 任 何 意 见 或 建 议，|  可 联 系 译 者，|  我 
+的 邮 箱 是 \TU/lmr/m/n/12 AAAAAOK@163.com\TU/FandolSong-Regular(0)/m/n/12 。| 
+ []
+
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -1352,117 +1361,60 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . - 'normal' (m/n) with NFSS spec.: <->"[FandolFang-Regular.otf]/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[5]
+[4]
 
-LaTeX Warning: Marginpar on page 6 moved.
+LaTeX Warning: Marginpar on page 5 moved.
 
-[6]
-Missing character: There is no ζ in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ω in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ο in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ν in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no π in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ο in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no λ in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ι in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no τ in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no κ in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ο in font [lmroman8-regular]:mapping=tex-text;!
-Missing character: There is no ν in font [lmroman8-regular]:mapping=tex-text;!
- [7]
+Missing character: There is no ζ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ω in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ι in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no τ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no κ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
+[5] [6] [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-[10] [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[9] [10] [11]
+Underfull \vbox (badness 1406) has occurred while \output is active []
 
  [12]
-[13]
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
-LaTeX Warning: Marginpar on page 14 moved.
-
+ [13]
 [14]
-Underfull \vbox (badness 1360) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
-[16]
-Underfull \vbox (badness 4595) has occurred while \output is active []
-
- [17]
-[18] [19]
-Underfull \vbox (badness 4595) has occurred while \output is active []
+[16] [17] [18] [19]
+Underfull \vbox (badness 5533) has occurred while \output is active []
 
  [20]
-Underfull \vbox (badness 4595) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-
-LaTeX Warning: Marginpar on page 22 moved.
-
-[22]
-Underfull \vbox (badness 4595) has occurred while \output is active []
-
- [23]
-[24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[22] [23] [24]
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [25]
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
- [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 3019) has occurred while \output is active []
+[26] [27]
+Underfull \vbox (badness 4752) has occurred while \output is active []
 
  [28]
-[29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-[32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-[35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-Underfull \vbox (badness 4595) has occurred while \output is active []
-
- [37]
-[38] [39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
- [41]
-[42]
-Underfull \vbox (badness 1975) has occurred while \output is active []
-
- [43]
-[44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-[46] (./C_Einleitung.aux) ) 
+[29] (./C_Einleitung.aux) ) 
 Here is how much of TeX's memory you used:
- 21341 strings out of 493068
- 502445 string characters out of 6137720
- 455815 words of memory out of 5000000
- 25109 multiletter control sequences out of 15000+600000
- 8538 words of font info for 58 fonts, out of 8000000 for 9000
+ 21343 strings out of 493068
+ 500076 string characters out of 6137720
+ 456808 words of memory out of 5000000
+ 25118 multiletter control sequences out of 15000+600000
+ 7595 words of font info for 52 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  57i,11n,74p,10477b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on C_Einleitung.pdf (46 pages).
+Output written on C_Einleitung.pdf (29 pages).
